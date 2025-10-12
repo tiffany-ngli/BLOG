@@ -5,7 +5,7 @@ project:
 website:
   title: "HOME"
   description:
-    Course Projects for STA 9750 at Baruch College
+    All Things Me.
   site-url: "https://tiffany-ngli.github.io/BLOG/"
   navbar:
     background: primary
