@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "STA 9750 Submission Material"
+  title: "HOME"
   description:
     Course Projects for STA 9750 at Baruch College
   site-url: "https://tiffany-ngli.github.io/BLOG/"
