@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "STA 9750 Submission Material"
+  description:
+    Course Projects for STA 9750 at Baruch College
+  site-url: "https://tiffany-ngli.github.io/BLOG/"
+  navbar:
+    background: primary
+    search: false
+    
+format:
+  html:
+    theme: minty
+    toc: false
+
+editor:
+  mode: source
