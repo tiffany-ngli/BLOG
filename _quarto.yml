@@ -12,7 +12,9 @@ website:
     search: false
     right:
       - text: "GALLERY"
-        href: "https://tiffany-ngli.github.io/BLOG/GALLERY.html"    
+        href: "https://tiffany-ngli.github.io/BLOG/GALLERY.html"   
+      - text: "LIBRARY"
+        href: "https://tiffany-ngli.github.io/BLOG/LIBRARY.html"    
 format:
   html:
     theme: minty
