@@ -3,13 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "HOME"
+  title: "THE CURATED COLLECTIVE"
   description:
     All Things Me.
   site-url: "https://tiffany-ngli.github.io/BLOG/"
   navbar:
     background: primary
     search: false
+    right:
+      - text: "GALLERY"
     
 format:
   html:

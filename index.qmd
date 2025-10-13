@@ -2,3 +2,8 @@
 title: "THE CURATED COLLECTIVE"
 ---
 
+<center><h1>CURRENTLY READING</h1></center> 
+<center><a href="https://www.goodreads.com/book/show/42046112-recursion" target="blank">
+  <img src="https://m.media-amazon.com/images/I/81Hj5g9zmOL._UF1000,1000_QL80_.jpg" width=50%>
+</a></center>
+

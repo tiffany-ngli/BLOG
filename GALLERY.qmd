@@ -1,0 +1,17 @@
+---
+title: "GALLERY"
+---
+
+<p align="center">
+  <img src="./PICS/MILA_03.jpeg" width="45%">
+  <img src="./PICS/GUELLE_04.JPG" width="45%"><br><br>
+  <img src="./PICS/VIEW_01.JPG" width="45%">
+  <img src="./PICS/VIEW_03.JPG" width="45%"> <br><br>
+  <img src="./PICS/GUELLE_02.JPG" width=45%>
+  <img src="./PICS/GUELLE_01.JPG" width=45%> <br><br>
+  <img src="./PICS/VIEW_05.jpeg" width=45%>
+  <img src="./PICS/ROC_01.JPG" width=45%> <br><br>
+  <img src="./PICS/VIEW_02.JPG" width=45%>
+  <img src="./PICS/GUELLE_05.jpeg" width=45%> <br><br>
+</p>
+
