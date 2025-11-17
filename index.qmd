@@ -2,6 +2,7 @@
 title: "All Things Me"
 ---
 
+<center><img src="./PICS/IMG_3215.jpeg" width="90%"></center>
 <center><h1> CURRENTLY READING </h1></center> 
 <center>
 <a href="https://www.goodreads.com/book/show/206318521-just-kids?from_search=true&from_srp=true&qid=b5qGhGjoER&rank=1" target="blank">
