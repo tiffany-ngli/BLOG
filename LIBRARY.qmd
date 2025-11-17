@@ -1,10 +1,10 @@
 ---
-title: "LIBRARY"
+title: "WHAT'S ON MY BOOKSHELF"
 ---
 
-Reading has become a lost art — once for me too. Lately, I’ve found a new appreciation for it during my daily commute.
+Reading has become a lost art — once for me too. Lately, I’ve found a new appreciation for it during my daily commute. Follow along as I share my thoughts and ratings. 
 
-| <a href="https://tiffany-ngli.github.io/BLOG/A%20Little%20Life%20Review.html"> <img src="./BOOKS/A_LITTLE_LIFE.jpg" width="50"> </a> <img src ="./BOOKS/JUST_KIDS.jpg" width="25"> <img src ="./BOOKS/RECURSION.jpeg" width="25"> <img src="./BOOKS/EL_TUNEL.jpeg" width="12"> <img src="./BOOKS/DUNE.jpeg" width="40"> |  
+| <a href="./A%20Little%20Life%20Review.html"> <img src="./BOOKS/A_LITTLE_LIFE.jpg" width="50"> </a> <img src ="./BOOKS/JUST_KIDS.jpg" width="25"> <a href="./Recursion%20Review.html"><img src ="./BOOKS/RECURSION.jpeg" width="25"></a> <img src="./BOOKS/EL_TUNEL.jpeg" width="12"> <img src="./BOOKS/DUNE.jpeg" width="40"> |  
 |:-----|
 | |   
 
